@@ -1,6 +1,5 @@
 # Basic ToDo list class
 from tkinter import *
-from _Menu import *
 
 
 class ToDo(object):
